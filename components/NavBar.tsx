@@ -21,7 +21,7 @@ export default function NavBar() {
 
   return (
     <>
-      <nav className="flex bg-slate-300 shadow-md p-3">
+      <nav className="flex fixed w-full z-[100] bg-slate-300 shadow-md p-3">
         <div className="flex justify-between items-center w-full h-full px-2 xl:px-10">
           <div className="flex items-center overflow-hidden">
             {/* NavBar Logo */}
