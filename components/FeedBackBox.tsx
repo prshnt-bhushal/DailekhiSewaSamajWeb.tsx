@@ -124,7 +124,7 @@ const FeedBackBox = () => {
       {/* Submit button */}
       <button
         type="submit"
-        className="m-2 p-2 uppercase rounded-md bg-slate-400 text-white w-48"
+        className="p-2 mb-4 w-[150px] text-white bg-slate-500  rounded-md hover:bg-slate-800"
       >
         Submit
       </button>
